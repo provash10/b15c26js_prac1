@@ -1,0 +1,63 @@
+JS Method like as CSS
+1. inline
+2. Internal
+3. External
+======================= Variable ==============
+Rules of variable
+EC5 =>var
+EC6 =>let
+Any alphabet(x,c,v,b)
+Any words (result, total, TotalPrice) Nosapce between 2 words.
+No Use special Character. ! @ $  %
+=================================
+Operator 
+1. Arithmetic Operator (+,-,*,/)
+2. 
+
+Compilar >>> last value nia kaj kore
+========variable=====
+
+Let, 
+x= 10;
+y= 20;
+
+x+y = 30; 
+
+1st Method 
+
+Types of declaring variable
+
+1st Method  
+
+x y 
+
+x= 10;
+y= 20;
+
+x+y = 30; 
+y-x = 10;
+
+>>>Using Var-----
+
+var x = 10;
+var y = 20;
+
+>>>Using let-----
+
+let x = 10;
+let y = 20;
+
+>>>Using const-----
+
+const x = 10;
+const y = 20;
+=====================
+Problem:
+
+Rahim has 300 tk, went to market and purchase 5 eggs.
+2 kitkat chacholets. per eggs price 10 tk and per Kitkat 
+prices 35 tk.
+Find the Remainig Money?
+
++,-,* use hbe........
+
